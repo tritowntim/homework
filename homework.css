@@ -1,0 +1,4 @@
+div.line-through > p {
+	text-decoration: line-through;
+	-moz-text-decoration-color: red;
+}
